@@ -1,7 +1,7 @@
 def main():
     library = Library()
-    staff = Staff("Alice", "Librarian")
-    member = Student("John Doe", "S123")
+    staff = Staff("Katerina", "Librarian")
+    member = Student("Damon Salvator", "S123")
 
     # Create books
     book1 = Book("1984", "George Orwell", "12345")
